@@ -1,0 +1,4 @@
+C:\Proyectos\WCFLibrary\CalculadoraWS\CalculadoraWS.Contracts\bin\Debug\CalculadoraWS.Contracts.dll
+C:\Proyectos\WCFLibrary\CalculadoraWS\CalculadoraWS.Contracts\bin\Debug\CalculadoraWS.Contracts.pdb
+C:\Proyectos\WCFLibrary\CalculadoraWS\CalculadoraWS.Contracts\obj\Debug\CalculadoraWS.Contracts.dll
+C:\Proyectos\WCFLibrary\CalculadoraWS\CalculadoraWS.Contracts\obj\Debug\CalculadoraWS.Contracts.pdb

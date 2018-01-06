@@ -1,0 +1,14 @@
+C:\Proyectos\WCFLibrary\Calculator\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Proyectos\WCFLibrary\Calculator\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Proyectos\WCFLibrary\Calculator\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Proyectos\WCFLibrary\Calculator\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Proyectos\WCFLibrary\Calculator\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Proyectos\WCFLibrary\Calculator\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Proyectos\WCFLibrary\Calculator\ConsoleApp\bin\Debug\CalculadoraClient.dll
+C:\Proyectos\WCFLibrary\Calculator\ConsoleApp\bin\Debug\CalculadoraMock.dll
+C:\Proyectos\WCFLibrary\Calculator\ConsoleApp\bin\Debug\WebActivatorEx.dll
+C:\Proyectos\WCFLibrary\Calculator\ConsoleApp\bin\Debug\SimpleInjector.dll
+C:\Proyectos\WCFLibrary\Calculator\ConsoleApp\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Proyectos\WCFLibrary\Calculator\ConsoleApp\bin\Debug\CalculadoraClient.pdb
+C:\Proyectos\WCFLibrary\Calculator\ConsoleApp\bin\Debug\CalculadoraMock.pdb
+C:\Proyectos\WCFLibrary\Calculator\ConsoleApp\bin\Debug\SimpleInjector.xml

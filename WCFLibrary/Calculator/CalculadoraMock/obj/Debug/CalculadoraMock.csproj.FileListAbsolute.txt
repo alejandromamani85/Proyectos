@@ -1,0 +1,5 @@
+C:\Proyectos\WCFLibrary\Calculator\CalculadoraMock\bin\Debug\CalculadoraMock.dll
+C:\Proyectos\WCFLibrary\Calculator\CalculadoraMock\bin\Debug\CalculadoraMock.pdb
+C:\Proyectos\WCFLibrary\Calculator\CalculadoraMock\obj\Debug\CalculadoraMock.dll
+C:\Proyectos\WCFLibrary\Calculator\CalculadoraMock\obj\Debug\CalculadoraMock.pdb
+C:\Proyectos\WCFLibrary\Calculator\CalculadoraMock\bin\Debug\CalculadoraMock.dll.config

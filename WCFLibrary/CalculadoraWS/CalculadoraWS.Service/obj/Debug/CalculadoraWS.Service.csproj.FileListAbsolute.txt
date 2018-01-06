@@ -1,0 +1,7 @@
+C:\Proyectos\WCFLibrary\CalculadoraWS\CalculadoraWS.Service\bin\Debug\CalculadoraWS.Service.dll
+C:\Proyectos\WCFLibrary\CalculadoraWS\CalculadoraWS.Service\bin\Debug\CalculadoraWS.Service.pdb
+C:\Proyectos\WCFLibrary\CalculadoraWS\CalculadoraWS.Service\bin\Debug\CalculadoraWS.Contracts.dll
+C:\Proyectos\WCFLibrary\CalculadoraWS\CalculadoraWS.Service\bin\Debug\CalculadoraWS.Contracts.pdb
+C:\Proyectos\WCFLibrary\CalculadoraWS\CalculadoraWS.Service\obj\Debug\CalculadoraWS.Service.csprojResolveAssemblyReference.cache
+C:\Proyectos\WCFLibrary\CalculadoraWS\CalculadoraWS.Service\obj\Debug\CalculadoraWS.Service.dll
+C:\Proyectos\WCFLibrary\CalculadoraWS\CalculadoraWS.Service\obj\Debug\CalculadoraWS.Service.pdb
