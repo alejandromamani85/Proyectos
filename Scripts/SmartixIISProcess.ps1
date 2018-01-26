@@ -1,0 +1,1 @@
+Get-WmiObject Win32_Process -Filter "name='iisexpress.exe'" | Select ProcessId, CommandLine | out-gridview -Title "SmartixProcess" -Wait
