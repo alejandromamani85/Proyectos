@@ -1,0 +1,25 @@
+<mat-card class="search-box">
+    <mat-icon>search</mat-icon>
+    <mat-form-field>
+      <input matInput #filter placeholder="filtrar..." (keyup)="Filter(filter.value)">
+    </mat-form-field>
+</mat-card>
+<mat-card class="lista">
+  <mat-list>
+    <mat-list-item *ngFor="let client of clients" class="client-list-item">
+      <div mat-line>
+          <h2>
+              <mat-icon class="avatar">account_circle</mat-icon> {{ client.name }}
+              <mat-icon class="status" [class.blocked]="IsBlocked(client.blocked)">radio_button_checked</mat-icon>
+          </h2>
+      </div>
+      <p mat-line>
+          Host: {{ client.host }}
+      </p>
+      <!-- <p>Index: {{ client.index }}</p>
+      <p>Target: {{ client.target }}</p>
+      <p>Comment: {{ client.comment }}</p> -->
+
+    </mat-list-item>
+  </mat-list>
+</mat-card>

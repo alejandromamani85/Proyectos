@@ -1,0 +1,53 @@
+.avatar {
+  margin-right: 0.5em;
+  color: #ccc;
+  font-size: 24px;
+}
+
+.status {
+  margin-right: 0.5em;
+  color: #0F0;
+  font-size: 26px;
+  position: absolute;
+  right:0px;
+}
+
+.blocked {
+  color: #FF2840;
+}
+
+h2 {
+  display: flex;
+}
+
+.lista {
+  padding: 0;
+}
+
+.client-list-item {
+  border-bottom: 1px solid #ddd;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.client-list-item:hover {
+  background-color: #eee;
+}
+
+.client-list-item p {
+  padding-left: 2.5em;
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-box mat-form-field {
+  flex: 1 1 auto;
+}
+
+:host {
+  position: relative;
+}

@@ -11,7 +11,7 @@ namespace MKCommander.Logic.Services.Base
     {
         #region Properties
 
-        protected ITikConnection connection { get; set; }
+        protected ITikConnection Connection { get; set; }
         #endregion
     }
 }

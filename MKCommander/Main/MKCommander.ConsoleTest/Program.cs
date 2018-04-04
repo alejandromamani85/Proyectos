@@ -13,18 +13,29 @@ namespace MKCommander.ConsoleTest
 {
     class Program
     {
-
-        //Prueba de Pings
+        //Prueba GetClientesByRouter
         static void Main(string[] args)
         {
             var servicio = new SrvClient();
-            var clients = servicio.GetClientsAll();
+            var clients = servicio.GetClientsAllConnections();
             foreach (QueueSimple qs in clients)
             {
                 Console.WriteLine(string.Format("Name: {0} - Target: {1} - MaxLimit: {2} - BurstLimit: {3} - LimitAt: {4} - Rate: {5}", qs.Name, qs.Target, qs.MaxLimit, qs.BurstLimit, qs.LimitAt, qs.Rate));
             }
             Console.ReadKey();
         }
+
+        ////Prueba GetClientesByRouter
+        //static void Main(string[] args)
+        //{
+        //    var servicio = new SrvClient();
+        //    var clients = servicio.GetClientsAll();
+        //    foreach (QueueSimple qs in clients)
+        //    {
+        //        Console.WriteLine(string.Format("Name: {0} - Target: {1} - MaxLimit: {2} - BurstLimit: {3} - LimitAt: {4} - Rate: {5}", qs.Name, qs.Target, qs.MaxLimit, qs.BurstLimit, qs.LimitAt, qs.Rate));
+        //    }
+        //    Console.ReadKey();
+        //}
 
         ////Prueba de Pings
         //static void Main(string[] args)

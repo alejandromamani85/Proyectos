@@ -1,0 +1,6 @@
+C:\GitHub\Proyectos\XMLCompare\Main\XMLCompare\bin\Debug\XMLCompare.exe.config
+C:\GitHub\Proyectos\XMLCompare\Main\XMLCompare\bin\Debug\XMLCompare.exe
+C:\GitHub\Proyectos\XMLCompare\Main\XMLCompare\bin\Debug\XMLCompare.pdb
+C:\GitHub\Proyectos\XMLCompare\Main\XMLCompare\obj\Debug\XMLCompare.exe
+C:\GitHub\Proyectos\XMLCompare\Main\XMLCompare\obj\Debug\XMLCompare.pdb
+C:\GitHub\Proyectos\XMLCompare\Main\XMLCompare\obj\Debug\XMLCompare.csprojResolveAssemblyReference.cache

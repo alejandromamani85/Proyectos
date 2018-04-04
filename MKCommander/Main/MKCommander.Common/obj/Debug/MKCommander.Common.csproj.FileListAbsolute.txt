@@ -1,0 +1,5 @@
+C:\GitHub\Proyectos\MKCommander\Main\MKCommander.Common\bin\Debug\MKCommander.Common.dll
+C:\GitHub\Proyectos\MKCommander\Main\MKCommander.Common\bin\Debug\MKCommander.Common.pdb
+C:\GitHub\Proyectos\MKCommander\Main\MKCommander.Common\obj\Debug\MKCommander.Common.csprojResolveAssemblyReference.cache
+C:\GitHub\Proyectos\MKCommander\Main\MKCommander.Common\obj\Debug\MKCommander.Common.dll
+C:\GitHub\Proyectos\MKCommander\Main\MKCommander.Common\obj\Debug\MKCommander.Common.pdb

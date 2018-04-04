@@ -32,6 +32,46 @@ namespace MKCommander.WebApi.Controllers
             return Json<List<QueueSimple>>(result);
         }
 
+        [HttpGet]
+        [Route("getAllConnections")]
+        public IHttpActionResult GetAllConnections()
+        {
+            var result = Service.GetClientsAllConnections();
+            return Json<List<QueueSimple>>(result);
+        }
+
+        [HttpGet]
+        [Route("getAllCustom")]
+        public IHttpActionResult GetAllCustom()
+        {
+            var result = Service.GetClientsAllConnections().OrderBy(x => x.Name).Select((x, index) => new { Index = index, x.Name, x.Target, x.Comment });
+            return Json(new { Count = result.Count(), Result = result });
+        }
+
+        [HttpGet]
+        [Route("getAllCustomFull")]
+        public IHttpActionResult GetAllCustomFull()
+        {
+            var result = Service.GetClientsAllConnectionsFull();
+            return Json(new { Count = result.Count(), Result = result });
+        }
+
+        [HttpGet]
+        [Route("getFirewallAddressList")]
+        public IHttpActionResult GetFirewallAddressList()
+        {
+            var result = Service.GetClientFirewallAddresList();
+            return Json(new { Count = result.Count(), Result = result });
+        }
+
+        [HttpGet]
+        [Route("getClientAllStatus")]
+        public IHttpActionResult GetClientAllStatus()
+        {
+            var result = Service.GetClientAllStatus();
+            return Json(new { Count = result.Count(), Result = result });
+        }
+
         // POST: api/Client
         public void Post([FromBody]string value)
         {

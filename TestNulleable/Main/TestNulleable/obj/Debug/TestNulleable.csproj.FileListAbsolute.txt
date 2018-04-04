@@ -1,0 +1,6 @@
+C:\GitHub\Proyectos\TestNulleable\Main\TestNulleable\bin\Debug\TestNulleable.exe.config
+C:\GitHub\Proyectos\TestNulleable\Main\TestNulleable\bin\Debug\TestNulleable.exe
+C:\GitHub\Proyectos\TestNulleable\Main\TestNulleable\bin\Debug\TestNulleable.pdb
+C:\GitHub\Proyectos\TestNulleable\Main\TestNulleable\obj\Debug\TestNulleable.csprojResolveAssemblyReference.cache
+C:\GitHub\Proyectos\TestNulleable\Main\TestNulleable\obj\Debug\TestNulleable.exe
+C:\GitHub\Proyectos\TestNulleable\Main\TestNulleable\obj\Debug\TestNulleable.pdb

@@ -118,6 +118,10 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\MKCommander.Common\MKCommander.Common.csproj">
+      <Project>{38acb7a6-801b-4894-ac7a-54b5731cb045}</Project>
+      <Name>MKCommander.Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MKCommander.Logic\MKCommander.Logic.csproj">
       <Project>{f66dab9a-7a7c-4fd2-816b-357df84ce9a0}</Project>
       <Name>MKCommander.Logic</Name>

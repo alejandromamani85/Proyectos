@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>MKCommander.WebApi</id>
+    <version>1.0.0</version>
+    <title>MKCommander.WebApi</title>
+    <authors>Alex</authors>
+    <owners>Alejandro Mamani</owners>
+    <licenseUrl>http://www.mkcommander.com.ar</licenseUrl>
+    <projectUrl>http://www.mkcommander.com.ar</projectUrl>
+    <iconUrl>http://www.mkcommander.com.ar/mk.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>WebApi Mikrotik Commander</description>
+    <releaseNotes>Do not need ConfigSection</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags></tags>
+	<references>
+      <group>
+        <reference file="MKCommander.Logic.dll" />
+      </group>
+    </references>
+	<frameworkAssemblies>
+      <!--<frameworkAssembly assemblyName="System.Configuration" targetFramework="net40" />-->
+      <!--<frameworkAssembly assemblyName="System.ServiceModel" targetFramework="net40" />-->
+    </frameworkAssemblies>
+	<dependencies>
+      <!--<dependency id="APISX.Contracts5-02" version="1.0.3" />-->
+      <dependency id="SimpleInjector" version="4.0.12" />
+      <dependency id="SxServiceClientFactory5-02" version="1.0.0" />
+      <dependency id="Newtonsoft.Json" version="10.0.3" />
+    </dependencies>
+	</metadata>
+	<files>
+	  <file src="readme.txt" target=""/>
+	  <file src="bin\Release\APISX.Client.pdb" target="lib\net462"/>
+	  <file src="bin\Release\APISX.Common.pdb" target="lib\net462"/>
+	  <file src="bin\Release\APISX.ClientMock.pdb" target="lib\net462"/>
+	</files>
+</package>
